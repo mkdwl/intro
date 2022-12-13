@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mkdwl
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning Python, C++ & CS basics
+- 📫 mohammedkadiwal2003@gmail.com
