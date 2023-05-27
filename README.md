@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @mkdwl
+- 👋 Hi, I’m Mohammed Kadiwal
+- 🎓 A CS student
+- 🌱 I’m currently learning Python, Web development
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Python, C++ & CS basics
 - 📫 mohammedkadiwal2003@gmail.com
